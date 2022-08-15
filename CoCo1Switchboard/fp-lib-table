@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CoCo3SwitchBoard)(type KiCad)(uri ./CoCo1Switchboard)(options "")(descr ""))
+)
