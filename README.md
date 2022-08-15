@@ -13,3 +13,8 @@ Membrane Replacement for TRS-80 Color Computer Keyboards
 ## Color Computer 1 Switchboard
 ![Alt text](/CoCo1Switchboard/Photos/CoCo1Switchboard-Back.PNG?raw=true "CoCo1Switchboard")
 ![Alt text](/CoCo1Switchboard/Photos/CoCo1Switchboard-Front.PNG?raw=true "CoCo1Switchboard")
+
+## Keyboard Adapter
+![Alt text](/KBAdapter/Photos/Keyboard-Adapter.PNG?raw=true "Keyboard Adapter")
+
+
