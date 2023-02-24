@@ -1,0 +1,73 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Edge Adapter for CoCo1 keyboards"
+Date "2022-12-19"
+Rev "1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 "Author: Mike Rojas"
+$EndDescr
+Wire Wire Line
+	4150 2650 5575 2650
+Wire Wire Line
+	5575 2750 4150 2750
+Wire Wire Line
+	4150 2850 5575 2850
+Wire Wire Line
+	4150 2950 5575 2950
+Wire Wire Line
+	4150 3050 5575 3050
+Wire Wire Line
+	5575 3150 4150 3150
+Wire Wire Line
+	4150 3250 5575 3250
+Wire Wire Line
+	4150 3350 5575 3350
+Wire Wire Line
+	4150 3450 5575 3450
+Wire Wire Line
+	5575 3550 4150 3550
+Wire Wire Line
+	4150 3650 5575 3650
+Wire Wire Line
+	5575 3750 4150 3750
+Wire Wire Line
+	4150 3850 5575 3850
+Wire Wire Line
+	5575 3950 4150 3950
+Wire Wire Line
+	4150 4050 5575 4050
+Wire Wire Line
+	4150 4150 5575 4150
+$Comp
+L Parts:6-520314-6 J1
+U 1 1 63A2B9C2
+P 3950 3350
+F 0 "J1" H 3868 4267 50  0000 C CNN
+F 1 "6-520314-6" H 3868 4176 50  0000 C CNN
+F 2 "parts:6-520314-6" H 3950 3350 50  0001 C CNN
+F 3 "~" H 3950 3350 50  0001 C CNN
+	1    3950 3350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Parts:SSW-116-02-L-S-RA J2
+U 1 1 63A3202B
+P 6075 3450
+F 0 "J2" H 6405 3546 50  0000 L CNN
+F 1 "SSW-116-02-L-S-RA" H 6405 3455 50  0000 L CNN
+F 2 "parts:SSW-116-02-L-S-RA" H 6075 3450 50  0001 L BNN
+F 3 "" H 6075 3450 50  0001 L BNN
+F 4 "R" H 6075 3450 50  0001 L BNN "PARTREV"
+F 5 "Samtec" H 6075 3450 50  0001 L BNN "MANUFACTURER"
+F 6 "Manufacturer Recommendations" H 6075 3450 50  0001 L BNN "STANDARD"
+	1    6075 3450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

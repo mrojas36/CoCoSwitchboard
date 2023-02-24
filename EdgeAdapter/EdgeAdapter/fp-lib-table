@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name parts)(type KiCad)(uri C:/Prj/CoCoSwitchboard/EdgeAdapter)(options "")(descr "EdgeAdapter Parts"))
+  (lib (name EdgeAdapter)(type KiCad)(uri C:/Prj/CoCoSwitchboard/EdgeAdapter)(options "")(descr ""))
+)
